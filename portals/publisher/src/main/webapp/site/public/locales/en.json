@@ -637,12 +637,6 @@
       "value": "Protocol"
     }
   ],
-  "Apis.Details.\n                                                                                Environments.deploy.vhost": [
-    {
-      "type": 0,
-      "value": "VHost"
-    }
-  ],
   "Apis.Details.APIDefinition.APIDefinition.api.definition": [
     {
       "type": 0,
@@ -4211,12 +4205,6 @@
       "value": "Deployed Revision"
     }
   ],
-  "Apis.Details.Environments.Environments\n                                                                    .select.table": [
-    {
-      "type": 0,
-      "value": "Select Revision"
-    }
-  ],
   "Apis.Details.Environments.Environments\n                                                                    .select.vhost": [
     {
       "type": 0,
@@ -4224,12 +4212,6 @@
     }
   ],
   "Apis.Details.Environments.Environments\n                                                                .deploy.button": [
-    {
-      "type": 0,
-      "value": "Deploy"
-    }
-  ],
-  "Apis.Details.Environments.Environments.\n                                                                deploy.button": [
     {
       "type": 0,
       "value": "Deploy"
@@ -4277,6 +4259,12 @@
       "value": "Name"
     }
   ],
+  "Apis.Details.Environments.Environments.cancel.btn": [
+    {
+      "type": 0,
+      "value": "Cancel"
+    }
+  ],
   "Apis.Details.Environments.Environments.create.cancel": [
     {
       "type": 0,
@@ -4287,6 +4275,12 @@
     {
       "type": 0,
       "value": "Create"
+    }
+  ],
+  "Apis.Details.Environments.Environments.deploy.button": [
+    {
+      "type": 0,
+      "value": "Deploy"
     }
   ],
   "Apis.Details.Environments.Environments.deploy.cancel": [
@@ -4353,6 +4347,12 @@
     {
       "type": 0,
       "value": "Action"
+    }
+  ],
+  "Apis.Details.Environments.Environments.pending.chip": [
+    {
+      "type": 0,
+      "value": "Pending"
     }
   ],
   "Apis.Details.Environments.Environments.revision\n                                                            .description.deploy": [
@@ -4503,6 +4503,12 @@
       "value": "count"
     }
   ],
+  "Apis.Details.Environments.Environments.select.table": [
+    {
+      "type": 0,
+      "value": "Select Revision"
+    }
+  ],
   "Apis.Details.Environments.Environments.solace.platform.environments.heading": [
     {
       "type": 0,
@@ -4519,6 +4525,12 @@
     {
       "type": 0,
       "value": "Gateway URL Visibility"
+    }
+  ],
+  "Apis.Details.Environments.deploy.vhost": [
+    {
+      "type": 0,
+      "value": "VHost"
     }
   ],
   "Apis.Details.ExternalStores.ExternalStores.cancel": [
@@ -8151,6 +8163,12 @@
     {
       "type": 0,
       "value": "Deploying sample API ..."
+    }
+  ],
+  "Apis.Listing.SampleAPI.popup.deploy.pending": [
+    {
+      "type": 0,
+      "value": "API revision deployment request sent"
     }
   ],
   "Apis.Listing.SampleAPI.popup.publish.complete": [

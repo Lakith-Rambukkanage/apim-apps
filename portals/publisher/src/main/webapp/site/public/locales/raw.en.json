@@ -278,9 +278,6 @@
   "Apis.Create.streaming.Components.SelectPolicies.business.plans": {
     "defaultMessage": "Protocol"
   },
-  "Apis.Details.\n                                                                                Environments.deploy.vhost": {
-    "defaultMessage": "VHost"
-  },
   "Apis.Details.APIDefinition.APIDefinition.api.definition": {
     "defaultMessage": "API Definition"
   },
@@ -1998,16 +1995,10 @@
   "Apis.Details.Environments.\n                                                        Environments.gateway.deployed.revision": {
     "defaultMessage": "Deployed Revision"
   },
-  "Apis.Details.Environments.Environments\n                                                                    .select.table": {
-    "defaultMessage": "Select Revision"
-  },
   "Apis.Details.Environments.Environments\n                                                                    .select.vhost": {
     "defaultMessage": "Select Access URL"
   },
   "Apis.Details.Environments.Environments\n                                                                .deploy.button": {
-    "defaultMessage": "Deploy"
-  },
-  "Apis.Details.Environments.Environments.\n                                                                deploy.button": {
     "defaultMessage": "Deploy"
   },
   "Apis.Details.Environments.Environments.APIGateways": {
@@ -2031,11 +2022,17 @@
   "Apis.Details.Environments.Environments.api.gateways.name": {
     "defaultMessage": "Name"
   },
+  "Apis.Details.Environments.Environments.cancel.btn": {
+    "defaultMessage": "Cancel"
+  },
   "Apis.Details.Environments.Environments.create.cancel": {
     "defaultMessage": "Cancel"
   },
   "Apis.Details.Environments.Environments.create.create": {
     "defaultMessage": "Create"
+  },
+  "Apis.Details.Environments.Environments.deploy.button": {
+    "defaultMessage": "Deploy"
   },
   "Apis.Details.Environments.Environments.deploy.cancel": {
     "defaultMessage": "Cancel"
@@ -2069,6 +2066,9 @@
   },
   "Apis.Details.Environments.Environments.gateway.action": {
     "defaultMessage": "Action"
+  },
+  "Apis.Details.Environments.Environments.pending.chip": {
+    "defaultMessage": "Pending"
   },
   "Apis.Details.Environments.Environments.revision\n                                                            .description.deploy": {
     "defaultMessage": "Add a description to the revision"
@@ -2130,6 +2130,9 @@
   "Apis.Details.Environments.Environments.select.rev.warning": {
     "defaultMessage": "Please delete a revision as the number of revisions have reached a maximum of {count}"
   },
+  "Apis.Details.Environments.Environments.select.table": {
+    "defaultMessage": "Select Revision"
+  },
   "Apis.Details.Environments.Environments.solace.platform.environments.heading": {
     "defaultMessage": "Solace Platform Environments"
   },
@@ -2138,6 +2141,9 @@
   },
   "Apis.Details.Environments.Environments.visibility.in.devportal": {
     "defaultMessage": "Gateway URL Visibility"
+  },
+  "Apis.Details.Environments.deploy.vhost": {
+    "defaultMessage": "VHost"
   },
   "Apis.Details.ExternalStores.ExternalStores.cancel": {
     "defaultMessage": "Cancel"
@@ -3887,6 +3893,9 @@
   },
   "Apis.Listing.SampleAPI.popup.deploy.inprogress": {
     "defaultMessage": "Deploying sample API ..."
+  },
+  "Apis.Listing.SampleAPI.popup.deploy.pending": {
+    "defaultMessage": "API revision deployment request sent"
   },
   "Apis.Listing.SampleAPI.popup.publish.complete": {
     "defaultMessage": "API published successfully!"
