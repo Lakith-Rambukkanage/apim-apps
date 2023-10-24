@@ -4146,6 +4146,9 @@
   "Base.Header.navbar.GlobalNavBar.common.policies": {
     "defaultMessage": "Policies"
   },
+  "Base.Header.navbar.GlobalNavBar.global.policies": {
+    "defaultMessage": "Global Policies"
+  },
   "Base.Header.navbar.GlobalNavBar.scopes": {
     "defaultMessage": "Scopes"
   },
@@ -4217,6 +4220,15 @@
   },
   "Error.while.validating.the.imported.graphQLSchema": {
     "defaultMessage": "Error while validating the imported schema"
+  },
+  "GlobalPolicies.Create.CreateGlobalPolicy": {
+    "defaultMessage": "Hi, I am the GlobalPolicies.Create.CreateGlobalPolicy component!"
+  },
+  "GlobalPolicies.Edit.EditGlobalPolicy": {
+    "defaultMessage": "Hi, I am the GlobalPolicies.Edit.EditGlobalPolicy component!"
+  },
+  "GlobalPolicies.Listing.listing": {
+    "defaultMessage": "Hi, I am the GlobalPolicies.Listing.listing component!"
   },
   "LoginDenied.logout": {
     "defaultMessage": "Logout"

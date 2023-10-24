@@ -8673,6 +8673,12 @@
       "value": "Policies"
     }
   ],
+  "Base.Header.navbar.GlobalNavBar.global.policies": [
+    {
+      "type": 0,
+      "value": "Global Policies"
+    }
+  ],
   "Base.Header.navbar.GlobalNavBar.scopes": [
     {
       "type": 0,
@@ -8823,6 +8829,24 @@
     {
       "type": 0,
       "value": "Error while validating the imported schema"
+    }
+  ],
+  "GlobalPolicies.Create.CreateGlobalPolicy": [
+    {
+      "type": 0,
+      "value": "Hi, I am the GlobalPolicies.Create.CreateGlobalPolicy component!"
+    }
+  ],
+  "GlobalPolicies.Edit.EditGlobalPolicy": [
+    {
+      "type": 0,
+      "value": "Hi, I am the GlobalPolicies.Edit.EditGlobalPolicy component!"
+    }
+  ],
+  "GlobalPolicies.Listing.listing": [
+    {
+      "type": 0,
+      "value": "Hi, I am the GlobalPolicies.Listing.listing component!"
     }
   ],
   "LoginDenied.logout": [
