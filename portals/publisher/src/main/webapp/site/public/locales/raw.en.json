@@ -4227,9 +4227,6 @@
   "GlobalPolicies.Edit.EditGlobalPolicy": {
     "defaultMessage": "Hi, I am the GlobalPolicies.Edit.EditGlobalPolicy component!"
   },
-  "GlobalPolicies.Listing.listing": {
-    "defaultMessage": "Hi, I am the GlobalPolicies.Listing.listing component!"
-  },
   "LoginDenied.logout": {
     "defaultMessage": "Logout"
   },
