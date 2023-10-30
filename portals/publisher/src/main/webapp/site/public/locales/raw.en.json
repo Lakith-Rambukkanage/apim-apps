@@ -4245,11 +4245,8 @@
   "GlobalPolicies.Listing.table.header.actions.delete": {
     "defaultMessage": "Delete"
   },
-  "GlobalPolicies.Listing.table.header.actions.title": {
-    "defaultMessage": "Actions"
-  },
-  "GlobalPolicies.Listing.table.header.actions.view": {
-    "defaultMessage": "View"
+  "GlobalPolicies.Listing.table.header.actions.edit": {
+    "defaultMessage": "Edit"
   },
   "LoginDenied.logout": {
     "defaultMessage": "Logout"
