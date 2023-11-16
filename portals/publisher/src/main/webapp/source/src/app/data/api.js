@@ -3122,7 +3122,7 @@ class API extends Resource {
             return client.apis['Gateway Policies'].addGatewayPoliciesToFlows(
                 {},
                 requestBody,
-                tthis._requestMetaData(),
+                this._requestMetaData(),
             );
         });
     }
