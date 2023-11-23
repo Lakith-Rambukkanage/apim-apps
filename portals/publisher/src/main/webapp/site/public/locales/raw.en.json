@@ -4245,6 +4245,9 @@
   "Deploy": {
     "defaultMessage": "Deploy"
   },
+  "Deployed.Gateway.Listing.Table.Header.Description": {
+    "defaultMessage": "Description"
+  },
   "Deployed.Gateway.Listing.Table.Header.Name": {
     "defaultMessage": "Deployed Gateways"
   },
