@@ -4365,9 +4365,6 @@
   "LoginDenied.title": {
     "defaultMessage": "Error 403 : Forbidden"
   },
-  "Policy.Already.Deployed": {
-    "defaultMessage": "Another global policy has been already deployed in this gateway"
-  },
   "Policy.Delete.Error": {
     "defaultMessage": "Error while deleting the policy"
   },
@@ -4559,6 +4556,9 @@
   },
   "Scopes.Usage.UsageViewAPI.api.usage": {
     "defaultMessage": "List of APIs"
+  },
+  "Select.Gateways": {
+    "defaultMessage": "Select Gateways to Deploy"
   },
   "ServiceCatalog.CreateApi.api.context.label": {
     "defaultMessage": "Context"
@@ -4781,9 +4781,6 @@
   },
   "ServiceCatalog.ServicesTableView.ServicesTableView.version": {
     "defaultMessage": "Version"
-  },
-  "Undeploy": {
-    "defaultMessage": "Undeploy"
   },
   "UnexpectedError.logout": {
     "defaultMessage": "Logout"
