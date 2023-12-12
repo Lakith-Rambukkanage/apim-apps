@@ -8852,7 +8852,7 @@
   "Confirm.Delete": [
     {
       "type": 0,
-      "value": "Confirm Delete"
+      "value": "Confirm Deletion"
     }
   ],
   "Confirm.Delete.Verify": [
@@ -8864,13 +8864,25 @@
   "Confirm.Deploy": [
     {
       "type": 0,
-      "value": "Confirm Deploy"
+      "value": "Confirm Deployment"
     }
   ],
   "Confirm.Deploy.Verify": [
     {
       "type": 0,
       "value": "Are you sure you want to depoly the policy in the selected gateways?"
+    }
+  ],
+  "Confirm.UnDeploy": [
+    {
+      "type": 0,
+      "value": "Confirm Undeployment"
+    }
+  ],
+  "Confirm.Undeploy.Verify": [
+    {
+      "type": 0,
+      "value": "Are you sure you want to undepoly the policy?"
     }
   ],
   "Connection.Timeout": [
@@ -10013,6 +10025,12 @@
     {
       "type": 0,
       "value": "Version"
+    }
+  ],
+  "Undeploy": [
+    {
+      "type": 0,
+      "value": "Undeploy"
     }
   ],
   "UnexpectedError.logout": [
